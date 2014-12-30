@@ -3,7 +3,7 @@
 Plugin Name: WeFact Hosting bestelformulier integratie
 Plugin URI: https://www.wefact.nl/
 Description: Eenvoudige manier om het bestelformulier van WeFact Hosting in de Wordpress website te integreren. Zie <a href="https://www.wefact.nl/wefact-hosting/help/artikel/87/bestelformulier-integreren-in-een-wordpress-website/">https://www.wefact.nl/wefact-hosting/help/artikel/87/bestelformulier-integreren-in-een-wordpress-website/</a> voor meer informatie.
-Version: 1.0
+Version: 1.1
 Author: WeFact
 Author URI: https://www.wefact.nl
 License: GPLv2 or later
